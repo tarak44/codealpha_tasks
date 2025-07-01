@@ -26,8 +26,8 @@ A modern, responsive web app for translating text between languages using the Go
 
 1️⃣ Clone this repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/language-translator.git
-cd language-translator
+git clone https://github.com/tarak44/codealpha_tasks.git
+cd codealpha_tasks
 2️⃣ Open script.js and update this line:
 
 javascript
